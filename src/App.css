@@ -1,0 +1,432 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.home,
+.bookstore,
+.editedbooks,
+.conferrenceproceedings,
+.journals,
+.memberships,
+.awards,
+.editorialboardmembers,
+.more,
+.sign-up,
+.submitproposal,
+.calculatepublicationcharge
+.publishedbooks,
+.authordashboard,
+.submitproposalforeditedbooks,
+.applyforeditorship,
+.submitchapter,
+.applyforreviewship,
+.editorialboard,
+.editorregistration,
+.reviewerregistration,
+.professionalmembership,
+.seniormembership,
+.fellowmembership,
+.youngresearcheraward,
+.reseachexcellenceaward,
+.youngachieveraward,
+.bestprofessoraward,
+.bestHODaward,
+.bestprincipalaward,
+.bestschoolteacheraward,
+.studentoftheyearaward,
+.mechanical,
+.civil,
+.electronicscommunication,
+.electronicselectricals,
+.computerscienceIS,
+.medical,
+.agriculture,
+.aboutus,
+.contactus,
+.directorboardmembers {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.home {
+  /* background-image: url('./images/img-1.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.bookstore {
+  /* background-image: url('./images/img-2.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.editedbooks {
+  /* background-image: url('./images/img-3.jpg'); */
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.conferrenceproceedings {
+  /* background-image: url('./images/img-4.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.journals {
+  /* background-image: url('./images/img-2.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.memberships {
+  /* background-image: url('./images/img-2.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.awards {
+  /* background-image: url('./images/img-2.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.editorialboardmembers {
+  /* background-image: url('./images/img-2.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.more {
+  /* background-image: url('./images/img-2.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.sign-up {
+  /* background-image: url('./images/img-7.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.submitproposal {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.calculatepublicationcharge {
+  /* background-image: url('./images/img-5.jpg'); */
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.publishedbooks {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.authordashboard {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.submitproposalforeditedbooks {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.applyforeditorship {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.submitchapter {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.applyforreviewship {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.editorialboard {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.editorregistration {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.reviewerregistration {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.professionalmembership {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.seniormembership {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.fellowmembership {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.youngresearcheraward {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.reseachexcellenceaward {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.youngachieveraward {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.bestprofessoraward {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.bestHODaward {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.bestprincipalaward {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.bestschoolteacheraward {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.studentoftheyearaward {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.mechanical {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.civil {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.electronicscommunication {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.electronicselectricals {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.computerscienceIS {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.medical {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+.agriculture {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.aboutus {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.contactus {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.directorboardmembers {
+  /* background-image: url('./images/img-6.jpg'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
